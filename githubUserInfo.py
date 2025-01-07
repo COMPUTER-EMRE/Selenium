@@ -1,0 +1,2 @@
+username = "Kendi bilgileriniz"
+password = "*************"
